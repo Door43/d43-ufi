@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ufi:home|Door43 (ufi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ufi|d43-ufi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ufi/archive/master.zip|d43-ufi.zip]]
+
+**Recent Changes**
+{{changes>ns = ufi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ufi|Ethnologue data]]
+
